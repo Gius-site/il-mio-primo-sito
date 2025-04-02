@@ -1,0 +1,21 @@
+.testo {
+  color: rgb(171, 197, 197);
+  background-color: rgb(27, 51, 84);
+  border: 2px solid blueviolet;
+  font-family: monospace;
+}
+
+.link:hover {
+  background-color: blueviolet;
+  color: white;
+}
+.titolo {
+  color: blueviolet;
+}
+
+.sottotitolo {
+  color: rgb(8, 50, 83);
+}
+html {
+  background-color: cadetblue;
+}
