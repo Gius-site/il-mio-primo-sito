@@ -16,6 +16,23 @@
 .sottotitolo {
   color: rgb(8, 50, 83);
 }
+.specifica {
+  color: bisque;
+}
 html {
   background-color: cadetblue;
+}
+nav {
+  background-color: bisque;
+  padding: 10px;
+  position: sticky;
+  top: 0;
+  color: cadetblue;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+a {
+  text-decoration: none;
 }
